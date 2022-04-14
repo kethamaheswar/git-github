@@ -1,2 +1,3 @@
 first text file
 Second text file
+3rd file now added
